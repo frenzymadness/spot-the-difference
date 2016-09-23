@@ -27,7 +27,7 @@ Levels depends on how many points you have. More points means harder game with m
 | ------- | ------------------------ | ----------------|  
 |     < 5 |                        2 |          [0, 9] |  
 |  <5, 9> |                        3 |       [0, 4, 9] |  
-|    > 10 |                        4 |    [0, 3, 6, 9] |
+|   >= 10 |                        4 |    [0, 3, 6, 9] |
 
 ## High score
 
